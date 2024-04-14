@@ -1,3 +1,5 @@
+#Instructions: https://adiack.github.io/2024/04/14/Gemini-VLM-In-Your-Shell.html
+
 export GOOGLE_API_KEY="YOUR_API_KEY"
 export OPENAI_API_KEY="YOUR_API_KEY"
 
